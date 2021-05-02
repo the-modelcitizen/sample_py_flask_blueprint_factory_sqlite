@@ -31,6 +31,5 @@ to start Flask app:
 
 I'd like to thank Miguel Grinberg 
 (https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world),
-assorted contributors in the digitalocean.com community and, of course, everyone
-that contributes to the best friend of all developers, stackoverflow.com. 
-
+assorted contributors in the www.digitalocean.com community and, of course, everyone
+that contributes to the best friend of all developers, www.stackoverflow.com. 
