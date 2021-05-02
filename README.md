@@ -6,8 +6,8 @@ integrated into one larger Flask app.
 to start Flask app:
 
 1. open terminal
-2. cd into directory containing app (sample_run.py and sample_test.py should)
-    be in directory, in this example the directory is
+2. cd into directory containing app (sample_run.py and sample_test.py should
+    be in directory), in this example the directory is
     'sample_py_flask_blueprint_factory_sqlite'
 3. check requirements.txt and install required packages into your virtual
     environment
