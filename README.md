@@ -11,12 +11,12 @@ to start Flask app:
     'sample_py_flask_blueprint_factory_sqlite'
 3. check requirements.txt and install required packages into your virtual
     environment
-4 a. to run in non-test mode, in terminal run the following command:
+4. a. to run in non-test mode, in terminal run the following command:
     python sample_run.py
     -if you've already run sample_test.py in this terminal session, you will
     need to close the terminal and start a new terminal session to change the
     environment variables from 'test' to 'run'
-  b. to run in test mode, in terminal run the following command:
+   b. to run in test mode, in terminal run the following command:
     python sample_test.py
     -if you've already run sample_run.py in this terminal session, you will
     need to close the terminal and start a new terminal session to change the
